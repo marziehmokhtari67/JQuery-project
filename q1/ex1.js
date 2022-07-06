@@ -1,2 +1,2 @@
 $("body").css("padding","30px 20px")
-$("p").css("background-color","yellow")
+$("p").css("background-color","pink")
